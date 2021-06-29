@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Angular/Ionic stuff 😄
-- 🌱 I’m currently learning about Android and Flutter
+- 🔭 I’m currently working on Angular/Flutter/NodeJS stuff 😄
+- 🌱 I’m currently learning about anything that seems interesting 😆
 - 💬 Ask me about JavaScript
 - 😄 Pronouns: he/him
 
