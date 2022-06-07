@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NodeJS/NestJS stuff 😄
+- 🔭 I’m currently working on Kotlin/Spring stuff 😄
 - 🌱 I’m currently learning about anything that seems interesting 😆
-- 💬 Ask me about NodeJS/NestJS
 - 😄 Pronouns: he/him
 
 #### 📫 How to reach me:
